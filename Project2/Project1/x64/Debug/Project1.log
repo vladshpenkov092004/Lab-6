@@ -1,0 +1,104 @@
+﻿  main.cpp
+D:\Documets\Архітектура комп’ютерів\C(6,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Documets\Архітектура комп’ютерів\C(6,10): error C2065: 'початок': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(6,25): error C2146: syntax error: missing ';' before identifier 'асемблерної'
+D:\Documets\Архітектура комп’ютерів\C(6,25): error C2065: 'асемблерної': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(6,48): error C2146: syntax error: missing ';' before identifier 'вставки'
+D:\Documets\Архітектура комп’ютерів\C(6,48): error C2065: 'вставки': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(8,2): error C2146: syntax error: missing ';' before identifier 'lea'
+D:\Documets\Архітектура комп’ютерів\C(8,2): error C2065: 'lea': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(8,6): error C2146: syntax error: missing ';' before identifier 'EBX'
+D:\Documets\Архітектура комп’ютерів\C(8,6): error C2065: 'EBX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(8,16): error C2065: 'завантаження': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(8,41): error C2146: syntax error: missing ';' before identifier 'адреси'
+D:\Documets\Архітектура комп’ютерів\C(8,41): error C2065: 'адреси': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(8,54): error C2146: syntax error: missing ';' before identifier 'результатів'
+D:\Documets\Архітектура комп’ютерів\C(8,54): error C2065: 'результатів': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(8,77): error C2146: syntax error: missing ';' before identifier 'в'
+D:\Documets\Архітектура комп’ютерів\C(8,77): error C2065: 'в': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(8,80): error C2146: syntax error: missing ';' before identifier 'регістр'
+D:\Documets\Архітектура комп’ютерів\C(8,80): error C2065: 'регістр': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(8,95): error C2146: syntax error: missing ';' before identifier 'EBX'
+D:\Documets\Архітектура комп’ютерів\C(8,95): error C2065: 'EBX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(9,3): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Documets\Архітектура комп’ютерів\C(9,3): error C2065: 'mov': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(9,7): error C2146: syntax error: missing ';' before identifier 'EAX'
+D:\Documets\Архітектура комп’ютерів\C(9,7): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(9,15): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(10,3): error C2146: syntax error: missing ';' before identifier 'imul'
+D:\Documets\Архітектура комп’ютерів\C(10,3): error C2065: 'imul': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(10,8): error C2146: syntax error: missing ';' before identifier 'X'
+D:\Documets\Архітектура комп’ютерів\C(10,11): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(10,21): error C2065: 'x': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(11,3): error C2146: syntax error: missing ';' before identifier 'add'
+D:\Documets\Архітектура комп’ютерів\C(11,3): error C2065: 'add': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(11,7): error C2146: syntax error: missing ';' before identifier 'EAX'
+D:\Documets\Архітектура комп’ютерів\C(11,7): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(11,15): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(11,25): error C2065: 'x': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(12,3): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Documets\Архітектура комп’ютерів\C(12,3): error C2065: 'mov': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(12,7): error C2146: syntax error: missing ';' before identifier 'EDI'
+D:\Documets\Архітектура комп’ютерів\C(12,7): error C2065: 'EDI': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(12,12): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(12,17): error C2065: 'пересилання': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(12,40): error C2146: syntax error: missing ';' before identifier 'знаменника'
+D:\Documets\Архітектура комп’ютерів\C(12,40): error C2065: 'знаменника': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(12,62): error C2146: syntax error: missing ';' before identifier 'в'
+D:\Documets\Архітектура комп’ютерів\C(12,62): error C2065: 'в': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(12,65): error C2146: syntax error: missing ';' before identifier 'регістр'
+D:\Documets\Архітектура комп’ютерів\C(12,65): error C2065: 'регістр': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(12,80): error C2146: syntax error: missing ';' before identifier 'EDI'
+D:\Documets\Архітектура комп’ютерів\C(12,80): error C2065: 'EDI': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(13,3): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Documets\Архітектура комп’ютерів\C(13,3): error C2065: 'mov': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(13,7): error C2146: syntax error: missing ';' before identifier 'EAX'
+D:\Documets\Архітектура комп’ютерів\C(13,7): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(13,16): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(14,3): error C2146: syntax error: missing ';' before identifier 'imul'
+D:\Documets\Архітектура комп’ютерів\C(14,3): error C2065: 'imul': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(14,8): error C2146: syntax error: missing ';' before identifier 'X'
+D:\Documets\Архітектура комп’ютерів\C(14,11): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(14,22): error C2065: 'x': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(15,3): error C2146: syntax error: missing ';' before identifier 'imul'
+D:\Documets\Архітектура комп’ютерів\C(15,3): error C2065: 'imul': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(15,8): error C2146: syntax error: missing ';' before identifier 'X'
+D:\Documets\Архітектура комп’ютерів\C(15,11): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(15,22): error C2065: 'x2': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(16,3): error C2146: syntax error: missing ';' before identifier 'sub'
+D:\Documets\Архітектура комп’ютерів\C(16,3): error C2065: 'sub': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(16,7): error C2146: syntax error: missing ';' before identifier 'EAX'
+D:\Documets\Архітектура комп’ютерів\C(16,7): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(16,16): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(16,30): error C3873: '0x2013': this character is not allowed as a first character of an identifier
+D:\Documets\Архітектура комп’ютерів\C(16,27): error C2065: 'x2': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(16,30): error C2146: syntax error: missing ';' before identifier '–'
+D:\Documets\Архітектура комп’ютерів\C(16,30): error C2065: '–': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(16,34): error C2143: syntax error: missing ';' before 'constant'
+D:\Documets\Архітектура комп’ютерів\C(17,3): error C2146: syntax error: missing ';' before identifier 'cdq'
+D:\Documets\Архітектура комп’ютерів\C(17,3): error C2065: 'cdq': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(17,8): error C2065: 'розширення': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(17,29): error C2146: syntax error: missing ';' before identifier 'операнда'
+D:\Documets\Архітектура комп’ютерів\C(17,29): error C2065: 'операнда': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(17,48): error C2065: 'ділимого': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(17,65): error C2146: syntax error: missing ';' before identifier 'в'
+D:\Documets\Архітектура комп’ютерів\C(17,65): error C2065: 'в': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(17,68): error C2146: syntax error: missing ';' before identifier 'EAX'
+D:\Documets\Архітектура комп’ютерів\C(17,68): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(17,74): error C2065: 'EDX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(18,3): error C2146: syntax error: missing ';' before identifier 'div'
+D:\Documets\Архітектура комп’ютерів\C(18,3): error C2065: 'div': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(18,7): error C2146: syntax error: missing ';' before identifier 'EDI'
+D:\Documets\Архітектура комп’ютерів\C(18,7): error C2065: 'EDI': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(18,23): error C3873: '0x2013': this character is not allowed as a first character of an identifier
+D:\Documets\Архітектура комп’ютерів\C(18,12): error C2065: 'часне': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(18,23): error C2146: syntax error: missing ';' before identifier '–'
+D:\Documets\Архітектура комп’ютерів\C(18,23): error C2065: '–': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(18,27): error C2146: syntax error: missing ';' before identifier 'EAX'
+D:\Documets\Архітектура комп’ютерів\C(18,27): error C2065: 'EAX': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(18,47): error C3873: '0x2013': this character is not allowed as a first character of an identifier
+D:\Documets\Архітектура комп’ютерів\C(18,32): error C2065: 'залишок': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(18,47): error C2146: syntax error: missing ';' before identifier '–'
+D:\Documets\Архітектура комп’ютерів\C(18,47): error C2065: '–': undeclared identifier
+D:\Documets\Архітектура комп’ютерів\C(18,51): error C2146: syntax error: missing ';' before identifier 'EDX'
+D:\Documets\Архітектура комп’ютерів\C(18,51): error C1003: error count exceeds 100; stopping compilation
